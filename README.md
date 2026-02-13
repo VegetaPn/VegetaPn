@@ -1,6 +1,7 @@
 # 👋 Hi, I'm VegetaPn
 
-Passionate about building AI Agents. | Focused on Autonomous Agent Systems and Agentic Reinforcement Learning.
+Passionate about building AI Agents. 
+Focused on Agentic Reinforcement Learning and Autonomous Agent Systems.
 
 ## 🛠️ Tech Stack
 <div align="left">
