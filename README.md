@@ -3,13 +3,13 @@
 Passionate about building AI Agents. 
 Focused on Agentic Reinforcement Learning and Autonomous Agent Systems.
 
-## 🛠️ Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-Natural%20Language%20Processing-4B275F?style=flat-square&logo=google-scholar&logoColor=white" alt="NLP" />
-</div>
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-00C853?style=flat-square&logo=robot&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B275F?style=flat-square&logo=openai&logoColor=white)
 
 ## 🌟 Featured Project
 ### [Writing Assistant Skill](https://github.com/VegetaPn/writing-assistant-skill)
