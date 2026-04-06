@@ -12,8 +12,7 @@ Focused on Agentic Reinforcement Learning and Autonomous Agent Systems.
 ![NLP](https://img.shields.io/badge/NLP-4B275F?style=flat-square&logo=openai&logoColor=white)
 
 ## 🌟 Featured Project
-### [Writing Assistant Skill](https://github.com/VegetaPn/writing-assistant-skill)
-A comprehensive end-to-end writing workflow skill for Claude Code that transforms ideas, materials, or rough drafts into polished, illustrated articles ready for publication.
+Coming soon.
 
 ## 📫 Connect With Me
 - 🐙 GitHub: [@VegetaPn](https://github.com/VegetaPn)
